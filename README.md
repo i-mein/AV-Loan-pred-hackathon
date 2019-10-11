@@ -1,6 +1,11 @@
-# loan-pred-hackathon
+# Loan Prediction III ML Hackathon
 
-AV Loan Prediction Hackathon 
+AV Loan Prediction III Hackathon 
 
 
-Full Exploratory Data Analysis (EDA), imputation and feature engneering  
+
+# File structure
+
+- loan_pred_eda.py: exploratory data analysis (EDA), imputation and feature engneering  
+
+- solution coming soon... 
