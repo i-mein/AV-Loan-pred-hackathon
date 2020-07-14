@@ -1,6 +1,6 @@
-# Loan Prediction III ML Hackathon
+# AV-Loan Prediction III ML Hackathon
 
-AV Loan Prediction III Hackathon 
+AV Loan Prediction III Hackathon for practice
 
 
 
